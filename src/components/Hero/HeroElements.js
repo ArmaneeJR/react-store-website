@@ -48,7 +48,7 @@ margin-bottom: 2rem;
 
 export const HeroBtn = styled.button`
 font-size: 1.4rem;
-padding: 1rem 4rem;
+padding: 0.6rem 3rem;
 border: none;
 background: #e31837;
 color: #fff;
